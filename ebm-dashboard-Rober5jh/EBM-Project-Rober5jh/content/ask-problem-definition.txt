@@ -1,55 +1,206 @@
 # Problem Definition Framework
-# Use this template to clearly define your management problem
 
 ## X → Y Framework
-### Current State (X - What's happening now that's problematic?)
-[Describe the current situation that needs to be changed]
+
+# Current State (X - What's happening now that's problematic?)
+
+- Engagement scores are below targets; several teams report low
+	morale.
+- Burnout
+- Voluntary turnover
+- Recognition and development are inconsistent.
+- Feedback is irregular and many employees lack role autonomy.
 
 ### Desired State (Y - What outcome do we want to achieve?)
-[Describe the ideal situation you want to reach]
+
+- Within 6–12 months: +5–10 points on engagement survey domains.
+- 10–20% relative reduction in voluntary turnover in pilot teams.
+- 5–15% improvement in productivity proxies.
+- A repeatable, low-cost non-monetary program (recognition,
+	autonomy, development, feedback) that managers and HR
+	consistently apply.
 
 ## PICOC Framework
+
 ### Population (P - Who is affected by this problem?)
-[Identify the specific group(s) experiencing the problem]
+
+- Employees across roles where monetary raises or bonuses are
+	constrained — e.g., frontline staff, knowledge workers, and
+	mid-level managers in a mid-sized organization (50–500
+	employees).
+- Particular focus on teams with reported low engagement,
+	rising voluntary turnover, or declining productivity metrics
+	over the last 6–12 months.
 
 ### Intervention (I - What solution/action are we considering?)
-[Describe the potential intervention or solution approach]
+
+- A bundle of non-monetary motivators delivered over a 6–12
+	month pilot.
+
+	Elements include:
+
+	- Formal recognition (peer and manager recognition systems).
+	- Increased job autonomy via role/task redesign and
+		decision authority.
+	- Career-development supports: mentoring, microlearning
+		stipends, and stretch assignments.
+	- Improved feedback rhythms: regular 1:1s and actionable
+		performance conversations.
+	- Targeted workplace design changes: flexible scheduling and
+		meaningful team rituals.
 
 ### Comparison (C - What alternatives exist?)
-[List alternative approaches or the "do nothing" option]
+
+- Status quo (no systematic non-monetary program).
+- Traditional monetary-focused approach: raises, bonuses, or
+	spot pay (if available).
+- Single-component interventions (e.g., recognition only) to
+	test which elements drive the biggest change.
 
 ### Outcomes (O - What will success look like?)
-[Define specific, measurable outcomes]
+
+- Primary outcomes (measurable):
+
+	- Employee engagement score increase (e.g., +5–10 points on
+		an engagement survey domain) within 6 months.
+	- Reduction in voluntary turnover rate (e.g., 10–20% relative
+		decrease) over 12 months.
+	- Improvement in productivity or output proxy (e.g., task
+		completion rate, sales per rep, tickets closed) by 5–15%
+		where applicable.
+
+- Secondary outcomes (behavioral / perceptual):
+
+	- Higher frequency of positive recognition events recorded
+		(peer/manager recognitions per month).
+	- Improved manager effectiveness ratings in employee
+		surveys.
+	- Increased participation in development activities
+		(mentoring, training completion rates).
 
 ### Context (C - Where/when does this apply?)
-[Specify the organizational, geographic, or temporal context]
+
+- Mid-size organization (50–500 employees) in a hybrid or
+	flexible work environment, North America.
+	Pilot duration: 6–12 months with mixed cross-functional teams.
+	Results will inform potential scale-up.
+
+Assumptions:
+
+- Budget constraints limit monetary incentives.
+- Leadership is willing to pilot non-monetary interventions and
+	collect outcome data.
+- HR systems can track engagement, turnover, and training
+	participation.
 
 ## Clear Problem Statement
-[Write a concise, specific statement of the management problem you're addressing]
+
+Managers in our mid-size organization (≈50–500 employees) are
+unable to use raises or bonuses due to current budget
+constraints. As a result, several teams report low engagement and
+voluntary turnover has increased over the last 6–12 months.
+Productivity proxies have declined in affected teams. We need a
+repeatable, low-cost program of non-monetary interventions
+(recognition, autonomy, development, feedback, flexible
+practices) that can be piloted and measured to restore
+engagement, reduce turnover, and improve productivity within
+6–12 months.
 
 ## Why This Problem Matters
+
 ### Impact on Organization
-[Explain the consequences if this problem isn't addressed]
+
+- Financial and operational costs: continued low engagement and
+	elevated turnover increase recruiting and onboarding costs,
+	reduce institutional knowledge, and lower productivity across
+	teams.
+- Performance risk: reduced productivity and uneven service/
+	delivery quality can harm customer satisfaction and revenue
+	generation.
+- Talent pipeline risks: persistent low morale reduces internal
+	promotion rates and weakens succession planning.
 
 ### Stakeholder Impact
-[Describe how different groups are affected]
+
+- Employees: Lower job satisfaction, reduced motivation, and
+	higher burnout risk; fewer professional development
+	opportunities may slow skill growth and career progression.
+- Managers: Increased time spent on hiring and reactive people
+	management rather than strategic work; inconsistent team
+	performance.
+- HR and Leadership: Greater pressure on limited compensation
+	budgets; difficulty meeting retention and diversity goals.
+- Customers/Clients: Potential declines in service quality,
+	responsiveness, or innovation if frontline and knowledge
+	workers disengage.
 
 ### Strategic Alignment
-[Connect to organizational goals and priorities]
+
+- Retention & Talent Strategy: Aligns with organizational goals
+	to retain high performers and reduce avoidable turnover
+	within existing budget constraints.
+- Operational Efficiency: Improving engagement and productivity
+	supports delivery targets and cost-effective operations.
+- Culture & Employer Brand: A structured, non-monetary program
+	supports long-term culture goals (recognition, development,
+	autonomy) that improve recruitment and employee value
+	proposition.
+
+Implementing a measurable, low-cost pilot directly supports
+near-term operational goals while preserving fiscal
+constraints and building evidence for scale-up.
 
 ## Evidence Questions to Explore
+
 ### For the Problem (Step 2)
+
 - What evidence shows this problem exists?
 - How widespread is this problem?
 - What are the root causes?
 
+Refined problem-level questions (measurable):
+
+- What are the current engagement scores by team and domain,
+	and how have they moved over the past 12 months?
+- What is the voluntary turnover rate (12-month rolling) by
+	department and role level, and what are the key drivers cited
+	in exit interviews?
+- Which job features (autonomy, task variety, recognition,
+	development opportunities, feedback frequency) are most
+	strongly correlated with engagement and intent-to-stay in our
+	employee survey data?
+
 ### For the Solution (Step 4)
+
 - What evidence supports our preferred solution?
 - Has this solution worked in similar contexts?
 - What are the potential risks and benefits?
 
+Refined solution-level questions (evaluative):
+
+- Which non-monetary interventions (peer/manager recognition,
+	autonomy, structured feedback, targeted development, flexible
+	scheduling) have produced meaningful, measurable improvements
+	in engagement and turnover in mid-size organizations (50–500
+	employees)?
+- What effect sizes have been reported for engagement and
+	turnover outcomes for single-component vs. bundled
+	interventions?
+- What implementation factors (manager training, frequency/
+	timing, measurement cadence) moderate success and scalability?
+- What are the common unintended consequences or risks
+	(e.g., perceived unfairness, recognition fatigue, increased
+	workload) and how have studies mitigated them?
+
 ---
-INSTRUCTIONS: 
+INSTRUCTIONS:
+1. Replace all bracketed placeholders with your specific content
+2. Use GitHub Copilot to help with writing and organization
+3. Reference Module 2 content for framework guidance
+4. Save frequently and commit to GitHub
+
+---
+INSTRUCTIONS:
 1. Replace all bracketed placeholders with your specific content
 2. Use GitHub Copilot to help with writing and organization
 3. Reference Module 2 content for framework guidance

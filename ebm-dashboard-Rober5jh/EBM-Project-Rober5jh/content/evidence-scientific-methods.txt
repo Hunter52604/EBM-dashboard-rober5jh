@@ -2,28 +2,35 @@
 # Document your systematic approach to finding research evidence
 
 ## Research Question
-[Restate your problem and solution in research terms]
+How can managers Motivate and Engage employees without monetary benefits.
 
-**Primary Research Question:** [What does research tell us about this problem?]
-**Secondary Research Question:** [What does research tell us about potential solutions?]
+**Primary Research Question:** What are Primary factors influencing employee motivation in organizations.
+**Secondary Research Question:** What is the relationship between employee motivation and organizational productivity
 
 ## Search Strategy
 
 ### Databases Searched
 - [ ] **PubMed/MEDLINE** [For health/organizational behavior research]
-- [ ] **Business Source Premier** [For business and management research] 
+- [ ] **Business Source Premier** [For business and management research]
 - [ ] **Google Scholar** [For multidisciplinary academic content]
 - [ ] **JSTOR** [For established academic journals]
 - [ ] **SSRN** [For business and social science working papers]
 - [ ] **Other:** [List additional relevant databases]
+- IJRISS
 
 ### Keywords and Search Terms
 
 #### Primary Keywords
-[List main terms related to your problem/solution]
+Autonomy
+Intrinisc and Extrinsic Motivation
+Organizational Climate
+Proffesional Growth and Development
 
-#### Secondary Keywords  
-[List related terms and synonyms]
+#### Secondary Keywords
+Interpersonal Relationships
+Corporate Governance
+Culture
+
 
 #### Boolean Search Combinations
 [Document your search string combinations]
@@ -45,7 +52,7 @@
 - Outcome measures
 - Quality thresholds
 
-### Exclusion Criteria  
+### Exclusion Criteria
 [What studies will you EXCLUDE?]
 - Study limitations
 - Context mismatches
